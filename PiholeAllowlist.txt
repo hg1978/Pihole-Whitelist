@@ -1,14 +1,20 @@
+# My PiHole Allowlist
+#Adguard DNS
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
+# Instagram
 0.0.0.0 cdninstagram.com
 0.0.0.0 instagram.com
 0.0.0.0 instagram.c10r.facebook.com
+# F1 TV
 0.0.0.0 f1-prod-production.apigee.net
 0.0.0.0 f1-prod-production.dn.apigee.net
 0.0.0.0 formula1.com
+# Joyn TV Stream
 0.0.0.0 yospace.com
 0.0.0.0 heartbeats.prd.data.s.joyn.de
 0.0.0.0 ad-client.mediafe-prd.s.joyn.de
+# Google
 0.0.0.0 0.client-channel.google.com
 0.0.0.0 2.android.pool.ntp.org
 0.0.0.0 android.clients.google.com
@@ -26,6 +32,7 @@
 0.0.0.0 video-stats.l.google.com
 0.0.0.0 geo3.ggpht.com
 0.0.0.0 yt3.ggpht.com
+# Youtube
 0.0.0.0 s.youtube.com
 0.0.0.0 s2.youtube.com
 0.0.0.0 youtu.be
@@ -33,6 +40,7 @@
 0.0.0.0 i.ytimg.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 s.ytimg.com
+# Plex
 0.0.0.0 app.plex.tv
 0.0.0.0 cpms.spop10.ams.plex.bz
 0.0.0.0 cpms35.spop10.ams.plex.bz
@@ -54,81 +62,125 @@
 0.0.0.0 status.plex.tv
 0.0.0.0 tvdb2.plex.tv
 0.0.0.0 tvthemes.plexapp.com
+# Github
 0.0.0.0 github.com
 0.0.0.0 github.io
 0.0.0.0 raw.githubusercontent.com
+# Cloudflare
 0.0.0.0 cdn.cloudflare.net
 0.0.0.0 cdnjs.cloudflare.com
+# Dropbox
 0.0.0.0 dl.dropbox.com
 0.0.0.0 dl.dropboxusercontent.com
 0.0.0.0 ns1.dropbox.com
 0.0.0.0 ns2.dropbox.com
+# No-IP.com
 0.0.0.0 no-ip.com
+# Twitter
 0.0.0.0 twimg.com
 0.0.0.0 twitter.com
 0.0.0.0 t.co
+# Optimizely
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn2.optimizely.com
 0.0.0.0 cdn3.optimizely.com
+# Akamai Technologies
 0.0.0.0 akamaihd.net
 0.0.0.0 akamaitechnologies.com
 0.0.0.0 akamaized.net
 0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 akamai.net
 0.0.0.0 akadns.net
+# Sonarr TV Soft
 0.0.0.0 apt.sonarr.tv
 0.0.0.0 download.sonarr.tv
 0.0.0.0 forums.sonarr.tv
 0.0.0.0 services.sonarr.tv
 0.0.0.0 skyhook.sonarr.tv
+# Ipify.org
 0.0.0.0 api.ipify.org
+# Rlje.net VOD
 0.0.0.0 api.rlje.net
+# Buffer CDN 
 0.0.0.0 bufferapp.com
+# Embedly.com
 0.0.0.0 cdn.embedly.com
+# Dataplicity.com
 0.0.0.0 dataplicity.com
+# Drift.com
 0.0.0.0 drift.com
 0.0.0.0 driftt.com
+# Giphy.com
 0.0.0.0 giphy.com
+# Gravatar Image
 0.0.0.0 gravatar.com
+# Ted.com
 0.0.0.0 hls.ted.com
 0.0.0.0 app-api.ted.com
 0.0.0.0 tedcdn.com
+# Vidible Video Platform
 0.0.0.0 img.vidible.tv
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 delivery.vidible.tv
 0.0.0.0 videos.vidible.tv
+# ImgIX
 0.0.0.0 imgix.net
+# XKCD
 0.0.0.0 imgs.xkcd.com
+#Bitly URL Shortener
 0.0.0.0 j.mp
+# Jquery
 0.0.0.0 jquery.com
+# Jsdelivr.net Open Source CDN
 0.0.0.0 jsdelivr.net
+# Malwarebytes Anti-Malware
 0.0.0.0 keystone.mwbsys.com
+# Aliexpress.com
 0.0.0.0 login.aliexpress.com
+# Adswizz sponsor clips before several podcasts
 0.0.0.0 npr-news.streaming.adswizz.com
+# CBS Television Stream
 0.0.0.0 cbsi.com
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 s0.2mdn.net
+# Audioscrobbler.com
 0.0.0.0 ws.audioscrobbler.com
+# Pinterest
 0.0.0.0 pinterest.com
+# Placehold it image soft
 0.0.0.0 placehold.it
 0.0.0.0 placeholdit.imgix.net
+# Brightcove Player
 0.0.0.0 brightcove.net
 0.0.0.0 secure.brightcove.com
 0.0.0.0 edge.api.brightcove.com
+# Cloudinary Upload Platform
 0.0.0.0 res.cloudinary.com
+# Shopify.com eCommerce Software
 0.0.0.0 v.shopify.com
 0.0.0.0 s.shopify.com
+# Wordpress
 0.0.0.0 wp.com
 0.0.0.0 wordpress.com
+# Avangate Shop
 0.0.0.0 secure.avangate.com
+# Surveymonkey
 0.0.0.0 secure.surveymonkey.com
+# JW Player
 0.0.0.0 ssl.p.jwpcdn.com
+# Tawk Live Chat
 0.0.0.0 tawk.to
+# Themoviedb.com
 0.0.0.0 themoviedb.com
+# Thetvdb.com
 0.0.0.0 thetvdb.com
+# Tinyurl Shortener
 0.0.0.0 tinyurl.com
+# Libsyn Podcast Hosting
 0.0.0.0 traffic.libsyn.com
+# Wikipedia
 0.0.0.0 wikipedia.org
+# Microsoft
 0.0.0.0 xbox.ipv6.microsoft.com
 0.0.0.0 xboxexperiencesprod.experimentation.xboxlive.com
 0.0.0.0 xflight.xboxlive.com
@@ -170,11 +222,14 @@
 0.0.0.0 dl.delivery.mp.microsoft.com
 0.0.0.0 1drv.com
 0.0.0.0 aspnetcdn.com
+# Netflix
 0.0.0.0 api-global.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 appboot.netflix.com
 0.0.0.0 secure.netflix.com
+# Samsung TV network issue
 0.0.0.0 cdn.samsungcloudsolution.com
+# Spotify
 0.0.0.0 open.spotify.com
 0.0.0.0 mobile-ap.spotify.com
 0.0.0.0 apresolve.spotify.com
@@ -184,7 +239,9 @@
 0.0.0.0 ap.spotify.com
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio4-ak.spotify.com.edgesuite.net
+# Sonos
 0.0.0.0 msmetrics.ws.sonos.com
+# Amazon Prime Video and Amazon CDN
 0.0.0.0 eu.api.amazonvideo.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 fls-eu.amazon.com
@@ -193,4 +250,84 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 images-amazon.com
 0.0.0.0 amazonaws.com
+# Apple
+0.0.0.0 gdmf.apple.com.akadns.net
+0.0.0.0 itunes.com
+0.0.0.0 mzstatic.com
+0.0.0.0 iphone-ld.origin-apple.com.akadns.net
+0.0.0.0 ax.phobos.apple.com.edgesuite.net
+0.0.0.0 init-p01md-lb.push-apple.com.akadns.net
+0.0.0.0 uts-api-cdn.itunes-apple.com.akadns.net
+0.0.0.0 np-edge-cdn.itunes-apple.com.akadns.net
+0.0.0.0 iadsdk.apple.com.akadns.net
+0.0.0.0 play.itunes.apple.com.edgesuite.net
+# Weather
+0.0.0.0 worldweather.wmo.int
+0.0.0.0 yr.no
+# Lets Encrypt
+0.0.0.0 letsencrypt.org
+# Spiegel.de
+0.0.0.0 sni.cdn.www.spiegel.de.c.footprint.net
+0.0.0.0 spiegel.de
+# Manager Magazin App
+0.0.0.0 manager-magazin-de.manager-magazin.de
+0.0.0.0 cdn1.manager-magazin.de
+0.0.0.0 sni.cdn.manager-magazin.de.c.footprint.net
+0.0.0.0 a.manager-magazin.de
+# Disney+ Streaming
+0.0.0.0 cdn.registerdisney.go.com
+0.0.0.0 dssott.com
+0.0.0.0 disneyplus.com
+0.0.0.0 disney-plus.net
+0.0.0.0 cws.conviva.com
+0.0.0.0 disneyplus.bn5x.net
+0.0.0.0 disney-portal.my.onetrust.com
+0.0.0.0 bamgrid.com
+0.0.0.0 disneyplus.com.ssl.sc.omtrdc.net
+0.0.0.0 cws-sjc2.conviva.com
+0.0.0.0 cws-iad1.conviva.com
+0.0.0.0 vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
+0.0.0.0 disney.demdex.net
+# Formula 1 Mobile iOS
+0.0.0.0 codemasters.helpshift.com
+0.0.0.0 f1mrs.codemasters.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 di-wuhqj6gc.leasewebultracdn.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 ecommerce.iap.unity3d.com
+# DynDns Provider
+0.0.0.0 dyndns.variomedia.de
+# ARD German Television
+0.0.0.0 image.ard.de
+0.0.0.0 image-ard-de-cddc.at-o.net
+0.0.0.0 daserste.de
+# German Corona Apps Very Special lol
+0.0.0.0 corona-datenspende.de
+0.0.0.0 datenspende.und-gesund.de
+# Firefox Browser
+0.0.0.0 detectportal.firefox.com
+# German Corona Warn App
+0.0.0.0 svc90.main.px.t-online.de
+# Earthquake App
+0.0.0.0 fe-lb.tranquilli.org
+# Reddit
+0.0.0.0 reddit.com
+# WhatsApp
+0.0.0.0 whatsapp.net
+0.0.0.0 whatsapp.com
+# Tidal
+0.0.0.0 sp-ad-fa.audio.tidal.com
+0.0.0.0 vb-ad-fa.video.tidal.com
+# The Pionneer App
+0.0.0.0 piano.io
+# Wow Tv App ex Sky
+0.0.0.0 dpm.demdex.net
+0.0.0.0 identity.mparticle.com
+# Meteologix Business
+0.0.0.0 business.meteologix.com
+# Scalable
+0.0.0.0 .capital
+0.0.0.0 de.scalable.capital
+0.0.0.0 secure.scalable.capital
+# Mailbox.org
 0.0.0.0 mailbox.org
