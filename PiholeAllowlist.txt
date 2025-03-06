@@ -1,253 +1,196 @@
-dns.adguard.com
-dns-family.adguard.com
-cdninstagram.com
-instagram.com
-instagram.c10r.facebook.com
-f1-prod-production.apigee.net
-f1-prod-production.dn.apigee.net
-formula1.com
-yospace.com
-heartbeats.prd.data.s.joyn.de
-ad-client.mediafe-prd.s.joyn.de
-0.client-channel.google.com
-2.android.pool.ntp.org
-android.clients.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-cse.google.com
-googleapis.com
-gstatic.com
-manifest.googlevideo.com
-redirector.googlevideo.com
-video-stats.l.google.com
-geo3.ggpht.com
-yt3.ggpht.com
-s.youtube.com
-s2.youtube.com
-youtu.be
-youtube-nocookie.com
-i.ytimg.com
-i1.ytimg.com
-s.ytimg.com
-app.plex.tv
-cpms.spop10.ams.plex.bz
-cpms35.spop10.ams.plex.bz
-dashboard.plex.tv
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
-my.plexapp.com
-nine.plugins.plexapp.com
-node.plexapp.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
-staging.plex.tv
-status.plex.tv
-tvdb2.plex.tv
-tvthemes.plexapp.com
-github.com
-github.io
-raw.githubusercontent.com
-cdn.cloudflare.net
-cdnjs.cloudflare.com
-dl.dropbox.com
-dl.dropboxusercontent.com
-ns1.dropbox.com
-ns2.dropbox.com
-no-ip.com
-twimg.com
-twitter.com
-t.co
-cdn.optimizely.com
-cdn2.optimizely.com
-cdn3.optimizely.com
-akamaihd.net
-akamaitechnologies.com
-akamaized.net
-widget-cdn.rpxnow.com
-akamai.net
-akadns.net
-apt.sonarr.tv
-download.sonarr.tv
-forums.sonarr.tv
-services.sonarr.tv
-skyhook.sonarr.tv
-api.ipify.org
-api.rlje.net
-bufferapp.com
-cdn.embedly.com
-dataplicity.com
-drift.com
-driftt.com
-giphy.com
-gravatar.com
-hls.ted.com
-app-api.ted.com
-tedcdn.com
-img.vidible.tv
-cdn.vidible.tv
-delivery.vidible.tv
-videos.vidible.tv
-imgix.net
-imgs.xkcd.com
-j.mp
-jquery.com
-jsdelivr.net
-keystone.mwbsys.com
-login.aliexpress.com
-npr-news.streaming.adswizz.com
-cbsi.com
-cbsinteractive.hb.omtrdc.net
-s0.2mdn.net
-ws.audioscrobbler.com
-pinterest.com
-placehold.it
-placeholdit.imgix.net
-brightcove.net
-secure.brightcove.com
-edge.api.brightcove.com
-res.cloudinary.com
-v.shopify.com
-s.shopify.com
-wp.com
-wordpress.com
-secure.avangate.com
-secure.surveymonkey.com
-ssl.p.jwpcdn.com
-tawk.to
-themoviedb.com
-thetvdb.com
-tinyurl.com
-traffic.libsyn.com
-wikipedia.org
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
-xsts.auth.xboxlive.com
-ui.skype.com
-title.auth.xboxlive.com
-title.mgt.xboxlive.com
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
-win10.ipv6.microsoft.com
-sharepoint.com
-pricelist.skype.com
-office.com
-office.net
-office365.com
-officeclient.microsoft.com
-notify.xboxlive.com
-nexusrules.officeapps.live.com
-microsoftonline.com
-licensing.xboxlive.com
-live.com
-msftncsi.com
-i.s-microsoft.com
-help.ui.xboxlive.com
-c.s-microsoft.com
-apps.skype.com
-attestation.xboxlive.com
-cert.mgt.xboxlive.com
-clientconfig.passport.net
-ctldl.windowsupdate.com
-dev.virtualearth.net
-device.auth.xboxlive.com
-ecn.dev.virtualearth.net
-def-vef.xboxlive.com
-eds.xboxlive.com
-geo-prod.do.dsp.mp.microsoft.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-1drv.com
-aspnetcdn.com
-api-global.netflix.com
-ichnaea.netflix.com
-appboot.netflix.com
-secure.netflix.com
-cdn.samsungcloudsolution.com
-open.spotify.com
-mobile-ap.spotify.com
-apresolve.spotify.com
-upgrade.scdn.com
-market.spotify.com
-spclient.wg.spotify.com
-ap.spotify.com
-audio-ake.spotify.com.edgesuite.net
-audio4-ak.spotify.com.edgesuite.net
-msmetrics.ws.sonos.com
-eu.api.amazonvideo.com
-device-metrics-us.amazon.com
-fls-eu.amazon.com
-fls-na.amazon.com
-cloudfront.net
-device-metrics-us-2.amazon.com
-images-amazon.com
-amazonaws.com
-gdmf.apple.com.akadns.net
-itunes.com
-mzstatic.com
-iphone-ld.origin-apple.com.akadns.net
-ax.phobos.apple.com.edgesuite.net
-init-p01md-lb.push-apple.com.akadns.net
-uts-api-cdn.itunes-apple.com.akadns.net
-np-edge-cdn.itunes-apple.com.akadns.net
-iadsdk.apple.com.akadns.net
-play.itunes.apple.com.edgesuite.net
-worldweather.wmo.int
-yr.no
-letsencrypt.org
-sni.cdn.www.spiegel.de.c.footprint.net
-spiegel.de
-manager-magazin-de.manager-magazin.de
-cdn1.manager-magazin.de
-sni.cdn.manager-magazin.de.c.footprint.net
-a.manager-magazin.de
-cdn.registerdisney.go.com
-dssott.com
-disneyplus.com
-disney-plus.net
-cws.conviva.com
-disneyplus.bn5x.net
-disney-portal.my.onetrust.com
-bamgrid.com
-disneyplus.com.ssl.sc.omtrdc.net
-cws-sjc2.conviva.com
-cws-iad1.conviva.com
-vod-l3c-eu-north-2.media.dssott.com.c.footprint.net
-disney.demdex.net
-codemasters.helpshift.com
-f1mrs.codemasters.com
-cdp.cloud.unity3d.com
-di-wuhqj6gc.leasewebultracdn.com
-config.uca.cloud.unity3d.com
-ecommerce.iap.unity3d.com
-dyndns.variomedia.de
-image.ard.de
-image-ard-de-cddc.at-o.net
-daserste.de
-corona-datenspende.de
-datenspende.und-gesund.de
-detectportal.firefox.com
-svc90.main.px.t-online.de
-fe-lb.tranquilli.org
-reddit.com
-whatsapp.net
-whatsapp.com
-sp-ad-fa.audio.tidal.com
-vb-ad-fa.video.tidal.com
-piano.io
-dpm.demdex.net
-identity.mparticle.com
-business.meteologix.com
-secure.scalable.capital
-mailbox.org
+0.0.0.0 dns.adguard.com
+0.0.0.0 dns-family.adguard.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 f1-prod-production.apigee.net
+0.0.0.0 f1-prod-production.dn.apigee.net
+0.0.0.0 formula1.com
+0.0.0.0 yospace.com
+0.0.0.0 heartbeats.prd.data.s.joyn.de
+0.0.0.0 ad-client.mediafe-prd.s.joyn.de
+0.0.0.0 0.client-channel.google.com
+0.0.0.0 2.android.pool.ntp.org
+0.0.0.0 android.clients.google.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 cse.google.com
+0.0.0.0 googleapis.com
+0.0.0.0 gstatic.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 video-stats.l.google.com
+0.0.0.0 geo3.ggpht.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 s.youtube.com
+0.0.0.0 s2.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 app.plex.tv
+0.0.0.0 cpms.spop10.ams.plex.bz
+0.0.0.0 cpms35.spop10.ams.plex.bz
+0.0.0.0 dashboard.plex.tv
+0.0.0.0 meta-db-worker02.pop.ric.plex.bz
+0.0.0.0 meta.plex.bz
+0.0.0.0 meta.plex.tv
+0.0.0.0 my.plexapp.com
+0.0.0.0 nine.plugins.plexapp.com
+0.0.0.0 node.plexapp.com
+0.0.0.0 o1.email.plex.tv
+0.0.0.0 o2.sg0.plex.tv
+0.0.0.0 proxy.plex.bz
+0.0.0.0 proxy.plex.tv
+0.0.0.0 proxy02.pop.ord.plex.bz
+0.0.0.0 pubsub.plex.bz
+0.0.0.0 pubsub.plex.tv
+0.0.0.0 staging.plex.tv
+0.0.0.0 status.plex.tv
+0.0.0.0 tvdb2.plex.tv
+0.0.0.0 tvthemes.plexapp.com
+0.0.0.0 github.com
+0.0.0.0 github.io
+0.0.0.0 raw.githubusercontent.com
+0.0.0.0 cdn.cloudflare.net
+0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 dl.dropbox.com
+0.0.0.0 dl.dropboxusercontent.com
+0.0.0.0 ns1.dropbox.com
+0.0.0.0 ns2.dropbox.com
+0.0.0.0 no-ip.com
+0.0.0.0 twimg.com
+0.0.0.0 twitter.com
+0.0.0.0 t.co
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn2.optimizely.com
+0.0.0.0 cdn3.optimizely.com
+0.0.0.0 akamaihd.net
+0.0.0.0 akamaitechnologies.com
+0.0.0.0 akamaized.net
+0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 akamai.net
+0.0.0.0 akadns.net
+0.0.0.0 apt.sonarr.tv
+0.0.0.0 download.sonarr.tv
+0.0.0.0 forums.sonarr.tv
+0.0.0.0 services.sonarr.tv
+0.0.0.0 skyhook.sonarr.tv
+0.0.0.0 api.ipify.org
+0.0.0.0 api.rlje.net
+0.0.0.0 bufferapp.com
+0.0.0.0 cdn.embedly.com
+0.0.0.0 dataplicity.com
+0.0.0.0 drift.com
+0.0.0.0 driftt.com
+0.0.0.0 giphy.com
+0.0.0.0 gravatar.com
+0.0.0.0 hls.ted.com
+0.0.0.0 app-api.ted.com
+0.0.0.0 tedcdn.com
+0.0.0.0 img.vidible.tv
+0.0.0.0 cdn.vidible.tv
+0.0.0.0 delivery.vidible.tv
+0.0.0.0 videos.vidible.tv
+0.0.0.0 imgix.net
+0.0.0.0 imgs.xkcd.com
+0.0.0.0 j.mp
+0.0.0.0 jquery.com
+0.0.0.0 jsdelivr.net
+0.0.0.0 keystone.mwbsys.com
+0.0.0.0 login.aliexpress.com
+0.0.0.0 npr-news.streaming.adswizz.com
+0.0.0.0 cbsi.com
+0.0.0.0 cbsinteractive.hb.omtrdc.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 ws.audioscrobbler.com
+0.0.0.0 pinterest.com
+0.0.0.0 placehold.it
+0.0.0.0 placeholdit.imgix.net
+0.0.0.0 brightcove.net
+0.0.0.0 secure.brightcove.com
+0.0.0.0 edge.api.brightcove.com
+0.0.0.0 res.cloudinary.com
+0.0.0.0 v.shopify.com
+0.0.0.0 s.shopify.com
+0.0.0.0 wp.com
+0.0.0.0 wordpress.com
+0.0.0.0 secure.avangate.com
+0.0.0.0 secure.surveymonkey.com
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 tawk.to
+0.0.0.0 themoviedb.com
+0.0.0.0 thetvdb.com
+0.0.0.0 tinyurl.com
+0.0.0.0 traffic.libsyn.com
+0.0.0.0 wikipedia.org
+0.0.0.0 xbox.ipv6.microsoft.com
+0.0.0.0 xboxexperiencesprod.experimentation.xboxlive.com
+0.0.0.0 xflight.xboxlive.com
+0.0.0.0 xkms.xboxlive.com
+0.0.0.0 xsts.auth.xboxlive.com
+0.0.0.0 ui.skype.com
+0.0.0.0 title.auth.xboxlive.com
+0.0.0.0 title.mgt.xboxlive.com
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 sharepoint.com
+0.0.0.0 pricelist.skype.com
+0.0.0.0 office.com
+0.0.0.0 office.net
+0.0.0.0 office365.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 notify.xboxlive.com
+0.0.0.0 nexusrules.officeapps.live.com
+0.0.0.0 microsoftonline.com
+0.0.0.0 licensing.xboxlive.com
+0.0.0.0 live.com
+0.0.0.0 msftncsi.com
+0.0.0.0 i.s-microsoft.com
+0.0.0.0 help.ui.xboxlive.com
+0.0.0.0 c.s-microsoft.com
+0.0.0.0 apps.skype.com
+0.0.0.0 attestation.xboxlive.com
+0.0.0.0 cert.mgt.xboxlive.com
+0.0.0.0 clientconfig.passport.net
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 device.auth.xboxlive.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 def-vef.xboxlive.com
+0.0.0.0 eds.xboxlive.com
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
+0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 1drv.com
+0.0.0.0 aspnetcdn.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 appboot.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 cdn.samsungcloudsolution.com
+0.0.0.0 open.spotify.com
+0.0.0.0 mobile-ap.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 upgrade.scdn.com
+0.0.0.0 market.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 ap.spotify.com
+0.0.0.0 audio-ake.spotify.com.edgesuite.net
+0.0.0.0 audio4-ak.spotify.com.edgesuite.net
+0.0.0.0 msmetrics.ws.sonos.com
+0.0.0.0 eu.api.amazonvideo.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 cloudfront.net
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 images-amazon.com
+0.0.0.0 amazonaws.com
+0.0.0.0 mailbox.org
